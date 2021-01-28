@@ -36,6 +36,6 @@ body{
 .calculator .buttons button:active{
     background-color: #aaa9a9;
 }
-.calculator .buttons button:focus{
+.calculator .buttons button:focus, #output:focus{
     outline: 0;
 }
